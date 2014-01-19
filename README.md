@@ -34,3 +34,7 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'. 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/worldcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
